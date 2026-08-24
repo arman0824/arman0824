@@ -86,11 +86,6 @@ and exploring more about AI/ML.
 
 ## `04 / contribution trail`
 
-<!-- Generated every six hours by .github/workflows/metrics.yml. -->
-<img src="assets/metrics.isocalendar.svg" width="90%" alt="3D isometric contribution calendar">
-
-<br><br>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arman0824/arman0824/output/snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arman0824/arman0824/output/snake.svg">
