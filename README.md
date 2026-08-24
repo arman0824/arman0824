@@ -162,16 +162,4 @@ and exploring more about AI/ML.
 </td>
 </tr>
 </table>
-
-<sub>
-
-| project | link | stack |
-|---|---|---|
-| **[CET Vault](https://github.com/arman0824/MHT-CET-College-predictor)** | [live app](https://cet-vault.vercel.app) | `React` `TypeScript` `Python` |
-| **[LG webOS Remote](https://github.com/arman0824/LG-WebOs-TVRemote-Control)** | local app | `JavaScript` `Node.js` `webOS` |
-| **[LeetCode submissions](https://github.com/arman0824/leetcode-submissions)** | solutions | `Python` `C++` `DSA` |
-| **[Learning](https://github.com/arman0824/learning)** | projects | `Languages` |
-
-</sub>
-
 </div>
