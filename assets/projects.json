@@ -1,0 +1,21 @@
+{
+  "_comment": "Featured repositories in README order. Live metadata comes from GitHub; these descriptions fill the currently empty repository descriptions.",
+  "projects": [
+    {
+      "repo": "MHT-CET-College-predictor",
+      "description": "Explore official CAP cutoffs, predict eligible colleges, compare branches, and build a preference list for MHT-CET admissions."
+    },
+    {
+      "repo": "LG-WebOs-TVRemote-Control",
+      "description": "A local-only browser remote that discovers, pairs with, and controls LG webOS TVs from desktop or phone."
+    },
+    {
+      "repo": "leetcode-submissions",
+      "description": "A growing Python archive of data structures and algorithms practice from LeetCode."
+    },
+    {
+      "repo": "learning",
+      "description": "A structured collection of freeCodeCamp Python projects covering programming fundamentals, data manipulation, and logic building."
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Current Learning Focus",
+  "_comment": "Arman's current focus, weighted toward Python, DSA, and AI/ML.",
+  "axes": [
+    { "label": "Python",     "value": 86 },
+    { "label": "DSA",        "value": 82 },
+    { "label": "AI / ML",    "value": 76 },
+    { "label": "TypeScript", "value": 62 },
+    { "label": "JavaScript", "value": 58 },
+    { "label": "React",      "value": 54 },
+    { "label": "Next.js",    "value": 48 }
+  ]
+}

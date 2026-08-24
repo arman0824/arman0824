@@ -1,0 +1,12 @@
+{
+  "title": "Language Focus",
+  "_comment": "Arman's selected language focus. Python, C++, HTML, and CSS are medium-weight; TypeScript and JavaScript are lower-weight.",
+  "axes": [
+    { "label": "Python",     "value": 68 },
+    { "label": "C++",        "value": 62 },
+    { "label": "HTML",       "value": 60 },
+    { "label": "CSS",        "value": 58 },
+    { "label": "TypeScript", "value": 32 },
+    { "label": "JavaScript", "value": 28 }
+  ]
+}
