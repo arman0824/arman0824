@@ -115,9 +115,7 @@ and exploring more about AI/ML.
 
 <img src="assets/metrics.languages.svg" height="165" alt="Most used languages">
 
-<br><br>
-
-<img src="assets/metrics.achievements.svg" width="90%" alt="GitHub achievements">
+<br>
 
 </div>
 
