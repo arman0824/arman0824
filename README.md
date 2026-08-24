@@ -23,7 +23,9 @@
 
 ---
 <div align="centre">
+  
 ## `01 / snapshot`
+
 </div>
 
 Hi, I'm **Arman Singh**, a computer science undergraduate in Mumbai. Currently learning new languages
