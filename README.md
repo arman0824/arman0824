@@ -22,14 +22,15 @@
 </div>
 
 ---
-
+<div align="centre">
 ## `01 / snapshot`
+</div>
 
-Hi, I'm **Arman Singh**, a computer science undergraduate in Mumbai. I build practical web tools,
-learn in public, and keep moving deeper into AI/ML and problem solving.
+Hi, I'm **Arman Singh**, a computer science undergraduate in Mumbai. Currently learning new languages
+and exploring more about AI/ML.
 
-- Building **[CET Vault](https://cet-vault.vercel.app)** and **[Hylun](https://hylun.vercel.app)**
-- Practising data structures and algorithms in **Python**
+- Built **[CET Vault](https://cet-vault.vercel.app)**
+- Practicing data structures and algorithms in **Python** and **c++**
 - Exploring applied **AI/ML** and new programming languages
 - Keeping a running record of what I learn in **[learning](https://github.com/arman0824/learning)**
 
@@ -172,17 +173,9 @@ learn in public, and keep moving deeper into AI/ML and problem solving.
 |---|---|---|
 | **[CET Vault](https://github.com/arman0824/MHT-CET-College-predictor)** | [live app](https://cet-vault.vercel.app) | `React` `TypeScript` `Python` |
 | **[LG webOS Remote](https://github.com/arman0824/LG-WebOs-TVRemote-Control)** | local app | `JavaScript` `Node.js` `webOS` |
-| **[LeetCode submissions](https://github.com/arman0824/leetcode-submissions)** | solutions | `Python` `DSA` |
-| **[Learning](https://github.com/arman0824/learning)** | projects | `Python` `freeCodeCamp` |
+| **[LeetCode submissions](https://github.com/arman0824/leetcode-submissions)** | solutions | `Python` `C++` `DSA` |
+| **[Learning](https://github.com/arman0824/learning)** | projects | `Languages` |
 
 </sub>
-
-</div>
-
----
-
-<div align="center">
-
-<sub>Built in Mumbai, one useful experiment at a time.</sub>
 
 </div>
