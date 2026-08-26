@@ -17,7 +17,6 @@
 <a href="https://x.com/croxxxzo"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"></a>
 <a href="https://www.instagram.com/nimbupaani.exe/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
 
-<img src="https://komarev.com/ghpvc/?username=arman0824&style=flat&color=39d353&label=profile+views" alt="Profile views">
 
 </div>
 
