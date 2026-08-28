@@ -31,7 +31,7 @@
 Hi, I'm **Arman Singh**, a computer science undergraduate in Mumbai. Currently learning new languages
 and exploring more about AI/ML.
 
-- Built **[CET Vault](https://cet-vault.vercel.app)**
+- Built **[CET Vault](https://cet-vault.vercel.app)** **[Agentic-AI](https://github.com/arman0824/Bog)**
 - Practicing data structures and algorithms in **Python** and **c++**
 - Exploring applied **AI/ML** and new programming languages
 - Keeping a running record of what I learn in **[learning](https://github.com/arman0824/learning)**
