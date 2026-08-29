@@ -42,7 +42,7 @@ and exploring more about AI/ML.
 
 ## `02 / toolkit`
 
-<img src="https://skillicons.dev/icons?i=python,js,ts,react,nextjs,nodejs,tailwind,supabase,git,github,vscode,html,css&perline=11" alt="Technology toolkit">
+<img src="https://skillicons.dev/icons?i=python,js,ts,react,nextjs,nodejs,tailwind,supabase,git,github,vscode,html,css&perline=15" alt="Technology toolkit">
 
 </div>
 
