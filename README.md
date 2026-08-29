@@ -6,7 +6,7 @@
 <br>
 
 <a href="https://github.com/arman0824">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2600&pause=900&color=39D353&center=true&vCenter=true&width=600&lines=Arman+Singh;Computer+Science+Undergrad;Building+Practical+Tools;Exploring+AI+%26+ML" alt="Typing banner">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2600&pause=900&color=39D353&center=true&vCenter=true&width=600&lines=Arman+Singh;Computer+Science+Undergrad;Learning+AI+%26+ML" alt="Typing banner">
 </a>
 
 <br>
