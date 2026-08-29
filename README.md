@@ -1,12 +1,12 @@
 <div align="center">
 
 <!-- Generated from assets/profile-source.png with scripts/dotify.py. -->
-<img src="assets/portrait.svg" width="300" alt="Arman Singh rendered as a dot-matrix portrait">
+<img src="assets/portrait.svg" width="300" alt="Arman">
 
 <br>
 
 <a href="https://github.com/arman0824">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2600&pause=900&color=39D353&center=true&vCenter=true&width=600&lines=Arman+Singh;Computer+Science+Undergrad;Building+Practical+Tools;Exploring+AI+%26+ML" alt="Typing banner introducing Arman Singh">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2600&pause=900&color=39D353&center=true&vCenter=true&width=600&lines=Arman+Singh;Computer+Science+Undergrad;Building+Practical+Tools;Exploring+AI+%26+ML" alt="Typing banner">
 </a>
 
 <br>
@@ -42,7 +42,7 @@ and exploring more about AI/ML.
 
 ## `02 / toolkit`
 
-<img src="https://skillicons.dev/icons?i=python,js,ts,react,nextjs,nodejs,tailwind,supabase,git,github,vscode,html,css&perline=7" alt="Arman's technology toolkit">
+<img src="https://skillicons.dev/icons?i=python,js,ts,react,nextjs,nodejs,tailwind,supabase,git,github,vscode,html,css&perline=11" alt="Technology toolkit">
 
 </div>
 
@@ -88,7 +88,7 @@ and exploring more about AI/ML.
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arman0824/arman0824/output/snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arman0824/arman0824/output/snake.svg">
-  <img src="https://raw.githubusercontent.com/arman0824/arman0824/output/snake.svg" width="100%" alt="Snake animation following Arman's contribution graph">
+  <img src="https://raw.githubusercontent.com/arman0824/arman0824/output/snake.svg" width="100%" alt="Snake animation">
 </picture>
 
 </div>
@@ -102,7 +102,7 @@ and exploring more about AI/ML.
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/card-stats-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="assets/card-stats-light.svg">
-  <img src="assets/card-stats-dark.svg" width="480" alt="Arman's GitHub statistics">
+  <img src="assets/card-stats-dark.svg" width="480" alt="GitHub statistics">
 </picture>
 
 <br>
