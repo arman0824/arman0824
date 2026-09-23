@@ -24,7 +24,7 @@
 
 <div align="center">
   
-## `01 / snapshot`
+## `01 / Snapshot`
 
 </div>
 
@@ -40,7 +40,7 @@ and exploring more about AI/ML.
 
 <div align="center">
 
-## `02 / toolkit`
+## `02 / Toolkit`
 
 <img src="https://skillicons.dev/icons?i=py,c,cpp,html,css,js,ts,supabase,vercel,git,github,vscode,apple,notion&perline=15" alt="Technology toolkit">
 
@@ -50,7 +50,7 @@ and exploring more about AI/ML.
 
 <div align="center">
 
-## `03 / current focus`
+## `03 / Current focus`
 
 <table>
 <tr>
@@ -83,7 +83,7 @@ and exploring more about AI/ML.
 
 <div align="center">
 
-## `04 / contribution trail`
+## `04 / Contribution trail`
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arman0824/arman0824/output/snake-dark.svg">
@@ -97,7 +97,7 @@ and exploring more about AI/ML.
 
 <div align="center">
 
-## `05 / the numbers`
+## `05 / The numbers`
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/card-stats-dark.svg">
