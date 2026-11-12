@@ -35,7 +35,7 @@ and exploring more about AI/ML.
 - Exploring applied **AI/ML** and learning new languages
 - Keeping a running record of what I learn and make in **[learning](https://github.com/arman0824/learning)**
 - Also, vibe coding to ship Full-stack apps / webapps.
-- Featured,  <a href="https://meeowy.vercel.app/"><img src="https://img.shields.io/badge/Meowy-green" alt="Meowy"></a> (macOS Companion), <a href="https://armann.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-green" alt="Portfolio"></a> (Portfolio)
+- Featured Vibe coded stuffs --  <a href="https://meeowy.vercel.app/"><img src="https://img.shields.io/badge/Meowy-green" alt="Meowy"></a> (macOS Companion), <a href="https://armann.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-green" alt="Portfolio"></a> (Portfolio)
 
 
 ---
