@@ -34,6 +34,9 @@ and exploring more about AI/ML.
 - Practicing DSA, Learning and creating small projects in **[learning](https://github.com/arman0824/learning)**
 - Exploring applied **AI/ML** and learning new languages
 - Keeping a running record of what I learn and make in **[learning](https://github.com/arman0824/learning)**
+- Also, vibe coding to ship Full-stack apps / webapps.
+- Featured,  <a href="https://meeowy.vercel.app/"><img src="https://img.shields.io/badge/Meowy-111" alt="Meowy"></a> (macOS Companion), <a href="https://armann.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-111" alt="Portfolio"></a> (Portfolio)
+
 
 ---
 
