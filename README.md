@@ -34,8 +34,8 @@ and exploring more about AI/ML.
 - Practicing DSA, Learning and creating small projects in **[learning](https://github.com/arman0824/learning)**
 - Exploring applied **AI/ML** and learning new languages
 - Keeping a running record of what I learn and make in **[learning](https://github.com/arman0824/learning)**
-- Also, vibe coding to ship Full-stack apps / webapps.
-- Featured Vibe coded stuffs,  <a href="https://meeowy.vercel.app/"><img src="https://img.shields.io/badge/Meowy-green" alt="Meowy"></a> (macOS Companion), <a href="https://armann.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-green" alt="Portfolio"></a> (Portfolio)
+- **AI-Accelerated Full-Stack Development:** Leveraging modern AI workflows to ship end-to-end apps rapidly—handling system architecture, API integration, debugging, and production deployment.
+- **Featured Builds,**  <a href="https://meeowy.vercel.app/"><img src="https://img.shields.io/badge/Meowy-blue" alt="Meowy"></a> (macOS Companion), <a href="https://armann.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-blue" alt="Portfolio"></a> (Portfolio), <a href="https://cetvault.vercel.app/"><img src="https://img.shields.io/badge/CETVault-blue" alt="CETVault"></a> (College finding/Predicting/Exploring toolkit)
 
 
 ---
